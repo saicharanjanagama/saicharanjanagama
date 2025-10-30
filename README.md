@@ -1,4 +1,4 @@
-### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=saicharanjanagama&icon=0&color=0)](https://visitcount.itsvg.in)
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=saicharanjanagama&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **a Linkedin Clone using React.js**
 - 🌱 I’m currently learning **Full Stack Development (React.js, Python, Flask/Django, Firebase, Redux)**
