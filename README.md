@@ -1,6 +1,6 @@
 ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=saicharanjanagama&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **a Linkedin Clone using React.js**
+- 🔭 I’m currently working as a **Web Development Intern at The Developers Arena**
 - 🌱 I’m currently learning **Full Stack Development (React.js, Python, Flask/Django, Firebase, Redux)**
 - 👯 I’m looking to collaborate on **open-source React.js and full-stack web development projects**
 - 💬 Ask me about **React.js, Redux, Firebase Authentication, JavaScript, and Python frameworks**
