@@ -19,6 +19,21 @@
 🚀 I enjoy transforming ideas into interactive digital experiences using modern web technologies and clean design principles.  
 🌱 Currently, I’m working on a **Linkedin Clone project using React.js** to enhance my frontend skills.
 
+## 🧑‍💼 Internship Experience
+
+💻 **Web Development Intern — The Developers Arena**  
+📅 *November 2025 – Present*  
+🌐 *Remote Internship (3 Month)*  
+
+### 🏆 Highlights:
+- 🧱 Completed hands-on **HTML5, CSS3, and JavaScript** tasks.  
+- 🧑‍💻 Built a **Personal Portfolio Website** as part of Week 1 project.  
+- 🔧 Gained practical experience using **Git & GitHub** for version control.  
+- 🎯 Strengthened understanding of **frontend development** and **semantic HTML**.  
+
+🚀 Excited to continue learning and building more advanced projects in the upcoming weeks!
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_.charan__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saicharanjanagama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saic89738@gmail.com) 
 
