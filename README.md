@@ -26,10 +26,11 @@
 🌐 *Remote Internship (3 Month)*  
 
 ### 🏆 Highlights:
-- 🧱 Completed hands-on **HTML5, CSS3, and JavaScript** tasks.  
-- 🧑‍💻 Built a **Personal Portfolio Website** as part of Week 1 project.  
-- 🔧 Gained practical experience using **Git & GitHub** for version control.  
-- 🎯 Strengthened understanding of **frontend development** and **semantic HTML**.  
+- 🧱 Completed hands-on **HTML5, CSS3, and JavaScript** tasks.
+- 🧑‍💻 Built a **Personal Portfolio Website** as part of Week 1 project.
+- 🎨 Developed the **Week 1 Portfolio** further into a cleaner and more structured Week 2 version using improved CSS and layout design.
+- 🚀 Enhanced understanding of **frontend development**, responsive UI design, and **semantic**, **clean HTML structure**.
+- 🔧 Gained practical experience using **Git & GitHub** for version control.
 
 🚀 Excited to continue learning and building more advanced projects in the upcoming weeks!
 
