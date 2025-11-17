@@ -27,12 +27,13 @@
 
 ### 🏆 Highlights:
 - 🧱 Completed hands-on **HTML5, CSS3, and JavaScript** tasks.
-- 🧑‍💻 Built a **Personal Portfolio Website** as part of Week 1 project.
-- 🎨 Developed the **Week 1 Portfolio** further into a cleaner and more structured Week 2 version using improved CSS and layout design.
-- 🚀 Enhanced understanding of **frontend development**, responsive UI design, and **semantic**, **clean HTML structure**.
-- 🔧 Gained practical experience using **Git & GitHub** for version control.
+- 🧑‍💻 Built a **Personal Portfolio Website** as **Week 1 project**.
+- 🎨 Improved the portfolio with a **cleaner**, **more structured**, and **responsive UI** for** Week 2**.
+- 📝 Developed an **Interactive Task Manager** in **Week 3** using JavaScript (**Add**, **Delete**, **Mark Complete**).
+- 🚀 Enhanced understanding of **DOM manipulation**, **event handling**, and **interactive UI behavior**.
+- 🔧 Gained practical experience using **Git & GitHub** for **version control**.
 
-🚀 Excited to continue learning and building more advanced projects in the upcoming weeks!
+🚀 Excited to continue learning and building **more advanced projects** in the upcoming weeks!
 
 
 ## 🌐 Socials:
