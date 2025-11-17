@@ -28,7 +28,7 @@
 ### 🏆 Highlights:
 - 🧱 Completed hands-on **HTML5, CSS3, and JavaScript** tasks.
 - 🧑‍💻 Built a **Personal Portfolio Website** as **Week 1 project**.
-- 🎨 Improved the portfolio with a **cleaner**, **more structured**, and **responsive UI** for** Week 2**.
+- 🎨 Improved the portfolio with a **cleaner**, **more structured**, and **responsive UI** for **Week 2**.
 - 📝 Developed an **Interactive Task Manager** in **Week 3** using JavaScript (**Add**, **Delete**, **Mark Complete**).
 - 🚀 Enhanced understanding of **DOM manipulation**, **event handling**, and **interactive UI behavior**.
 - 🔧 Gained practical experience using **Git & GitHub** for **version control**.
