@@ -26,12 +26,11 @@
 🌐 *Remote Internship (3 Month)*  
 
 ### 🏆 Highlights:
-- 🧱 Completed hands-on **HTML5, CSS3, and JavaScript** tasks.
-- 🧑‍💻 Built a **Personal Portfolio Website** as **Week 1 project**.
-- 🎨 Improved the portfolio with a **cleaner**, **more structured**, and **responsive UI** for **Week 2**.
-- 📝 Developed an **Interactive Task Manager** in **Week 3** using JavaScript (**Add**, **Delete**, **Mark Complete**).
-- 🚀 Enhanced understanding of **DOM manipulation**, **event handling**, and **interactive UI behavior**.
-- 🔧 Gained practical experience using **Git & GitHub** for **version control**.
+- 🧱 Completed practical tasks using **HTML, CSS, and JavaScript** throughout the internship.  
+- 🌐 Built my **Portfolio Website** in Week 1 and made it fully **responsive** in Week 2.  
+- 📝 Developed an **Interactive Task Manager** in Week 3 using **DOM manipulation & clean JS**.  
+- 🍽️ Created a **Restaurant Website** in Week 4 with hero section, services, menu & mobile navigation.  
+- 🔧 Strengthened my skills in **responsive design, UI structure, and Git/GitHub workflow**.  
 
 🚀 Excited to continue learning and building **more advanced projects** in the upcoming weeks!
 
