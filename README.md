@@ -32,7 +32,8 @@
 - 🌐 Built my **Portfolio Website** in Week 1 and made it fully **responsive** in Week 2.  
 - 📝 Developed an **Interactive Task Manager** in Week 3 using **DOM manipulation & clean JS**.  
 - 🍽️ Created a **Restaurant Website** in Week 4 with hero section, services, menu & mobile navigation.  
-- 🔧 Strengthened my skills in **responsive design, UI structure, and Git/GitHub workflow**.  
+- 🚀 Built an **Advanced Portfolio Website** in Week 5 with **complex layouts, animations, modern CSS techniques, and professional design**.
+- 🔧 Strengthened my skills in **responsive design, UI structure, Git/GitHub workflow, CSS animations, and advanced frontend techniques**. 
 
 🚀 Excited to continue learning and building **more advanced projects** in the upcoming weeks!
 
