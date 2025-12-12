@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 🎓 I'm a **Computer Science Engineering graduate from Anurag University** and an **aspiring Full Stack Developer** passionate about building dynamic, responsive, and scalable web applications.
 
-🌐 **Portfolio:** [Sai Charan | Portfolio](https://saicharanjanagama.github.io/Intern-Week5/)
+🌐 **Portfolio:** [Sai Charan | Portfolio](https://saicharanjanagama.github.io/Portfolio/)
 
 💡 I have hands-on experience in:
 - **Frontend:** HTML, CSS, JavaScript, React.js  
@@ -42,7 +42,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_.charan__) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saicharanjanagama) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saic89738@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://saicharanjanagama.github.io/Intern-Week5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://saicharanjanagama.github.io/Portfolio/)
 
 
 # 💻 Tech Stack:
